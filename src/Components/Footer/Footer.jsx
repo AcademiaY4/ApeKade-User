@@ -59,7 +59,7 @@ export default function Footer() {
                                     <li className="nav-item mb-2"><a href="#!" className="nav-link">Shipping</a></li>
                                     <li className="nav-item mb-2"><a href="#!" className="nav-link">Product Returns</a></li>
                                     <li className="nav-item mb-2"><a href="#!" className="nav-link">FAQ</a></li>
-                                    <li className="nav-item mb-2"><a href="../pages/shop-checkout.html" className="nav-link">Shop
+                                    <li className="nav-item mb-2"><a href="#" className="nav-link">Shop
                                         Checkout</a></li>
                                 </ul>
                             </div>

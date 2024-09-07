@@ -10,7 +10,7 @@ export default function CartItem() {
                         <img src="../assets/images/products/product-img-1.jpg" alt="Ecommerce" className="icon-shape icon-xxl" />
                         <div className="ms-3">
                             {/* title */}
-                            <a href="../pages/shop-single.html" className="text-inherit">
+                            <a href="#" className="text-inherit">
                                 <h6 className="mb-0">{'Haldirams Sev Bhujia'}</h6>
                             </a>
                             <span><small className="text-muted">.98 / lb</small></span>
